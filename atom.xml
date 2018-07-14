@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>PL33&#39;s Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-07-14T09:05:16.166Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>PL33</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Diary</title>
+    <link href="http://yoursite.com/2018/07/13/Diary/"/>
+    <id>http://yoursite.com/2018/07/13/Diary/</id>
+    <published>2018-07-13T07:29:25.000Z</published>
+    <updated>2018-07-14T09:05:16.166Z</updated>
+    
+    <content type="html"><![CDATA[<p>I want to see you！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;I want to see you！&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>my first blog</title>
+    <link href="http://yoursite.com/2018/07/07/my-first-blog/"/>
+    <id>http://yoursite.com/2018/07/07/my-first-blog/</id>
+    <published>2018-07-06T17:07:00.000Z</published>
+    <updated>2018-07-09T12:51:30.215Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="My-first-Blog"><a href="#My-first-Blog" class="headerlink" title="My first Blog"></a>My first Blog</h1><p>I’m glad to write my first Blog!</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;My-first-Blog&quot;&gt;&lt;a href=&quot;#My-first-Blog&quot; class=&quot;headerlink&quot; title=&quot;My first Blog&quot;&gt;&lt;/a&gt;My first Blog&lt;/h1&gt;&lt;p&gt;I’m glad to write my first
+      
+    
+    </summary>
+    
+    
+      <category term="something" scheme="http://yoursite.com/tags/something/"/>
+    
+  </entry>
+  
+</feed>
