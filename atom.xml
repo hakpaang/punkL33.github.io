@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-07-14T09:05:16.166Z</updated>
+  <updated>2018-07-14T09:43:52.969Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>喜欢你喜欢的</title>
+    <link href="http://yoursite.com/2018/07/14/%E5%96%9C%E6%AC%A2%E4%BD%A0%E5%96%9C%E6%AC%A2%E7%9A%84/"/>
+    <id>http://yoursite.com/2018/07/14/喜欢你喜欢的/</id>
+    <published>2018-07-14T09:42:50.000Z</published>
+    <updated>2018-07-14T09:43:52.969Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="滑板"><a href="#滑板" class="headerlink" title="滑板"></a>滑板</h1><hr><p>我的滑板什么时候能到吖！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;滑板&quot;&gt;&lt;a href=&quot;#滑板&quot; class=&quot;headerlink&quot; title=&quot;滑板&quot;&gt;&lt;/a&gt;滑板&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;我的滑板什么时候能到吖！&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Diary</title>
